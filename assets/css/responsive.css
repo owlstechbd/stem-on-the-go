@@ -1,0 +1,39 @@
+@media screen and (max-width:720px) {
+    
+    .section-padding {
+        padding: 50px 0;
+    }
+
+    .about-img{
+        margin-top: 30px;
+    }
+
+    .mission-vision{
+        flex-direction: column;
+    }
+    .mission-left {
+        width: 100%;
+        height: 300px;
+    }
+    .mission-right{
+        width: 100%;
+        padding: 40px 30px;
+        height: auto;
+    }
+    div#vision{
+        flex-direction: column-reverse;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

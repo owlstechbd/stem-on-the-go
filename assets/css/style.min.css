@@ -2025,7 +2025,7 @@ ul {
 
 @media(min-width: 1200px) {
     .banner-style2 .banner__content h2 {
-        font-size: 2rem
+        font-size: 25px
     }
 }
 
@@ -2595,6 +2595,10 @@ ul {
 .section-title h2 {
     text-align: center;
     color: #66bb51;
+}
+.section-title h4 {
+    text-align: center;
+    color: #737373;
     margin-bottom: 50px;
 }
 
